@@ -1,7 +1,9 @@
 # SpotifySongScript
 
-- 👋 Hi, I’m @TolgaKilinckaya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, We created a Spotify Song Script
+- 👀 We used Python and Selenium.
+- 🌱 We're ITU Students in Electric-Electronics Faculty
+- 💞️ We're willing to upgrade this script
+- 📫 How to reach us:
+      tolgakilinckaya@gmail.com
+      atakankuscu35@hotmail.com
