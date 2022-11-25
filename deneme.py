@@ -9,7 +9,7 @@ chrome_options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(options=chrome_options)
 class Spotify():
     def pencere():
-        driver.get("http://www.spotify.com.tr")
+        driver.get("http://www.spotify.com")
         assert "Spotify" in driver.title
         driver.maximize_window()
 
@@ -18,9 +18,9 @@ class Spotify():
         giris.click()
         time.sleep(3)
         username = driver.find_element(By.ID, "login-username")
-        username.send_keys("atakankuscu35@hotmail.com")
+        username.send_keys("your mail adress")
         password = driver.find_element(By.ID, "login-password")
-        password.send_keys("atAkan.3526")
+        password.send_keys("your password")
         tikla = driver.find_element(By.ID, "login-button")
         tikla.click()
         time.sleep(3)
